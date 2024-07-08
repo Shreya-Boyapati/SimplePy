@@ -20,4 +20,14 @@ Running compiler
 ---
 - Set agrv[1] as name of python file to be converted and argv[2] as file size
 - Run main.cpp with defined arguments
-- Output of python code will be displayed in terminal
+- Output of python code will be displayed in terminal like so
+  
+```
+**starting**
+
+x = 1
+y = 99
+z cubed is 1000.
+st = csiscool!
+condition c1 is 1, c2 is 0
+```
